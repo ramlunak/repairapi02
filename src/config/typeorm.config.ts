@@ -4,10 +4,10 @@ import { join } from 'path';
 import { ConnectionOptions } from 'typeorm';
 const typeOrmConfig: TypeOrmModuleOptions = {
     type: 'mysql',    
-    host: 'localhost',
+    host: 'sql530.main-hosting.eu',
     port: 3306,
-    username: 'root',
-    password: '',
+    username: 'u763815705_repairuser',
+    password: 'U763815705_repairuser',
     database: 'u763815705_repair',
     autoLoadEntities: true,
     entities: [join(__dirname , '../**/**/*.entity{.ts,.js}')],
@@ -20,4 +20,4 @@ const typeOrmConfig: TypeOrmModuleOptions = {
     },
 };
 
-export = typeOrmConfig;
+export = typeOrmConfig
