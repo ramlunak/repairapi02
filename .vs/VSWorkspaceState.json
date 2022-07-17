@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\modules",
+    "\\src\\modules\\repair",
+    "\\src\\modules\\repair\\cuenta",
+    "\\src\\modules\\repair\\cuenta\\controller",
+    "\\src\\modules\\repair\\cuenta\\services",
+    "\\src\\modules\\repair\\cuenta\\services\\cuenta",
+    "\\src\\modules\\repair\\diseno",
+    "\\src\\modules\\repair\\diseno\\controller"
+  ],
+  "PreviewInSolutionExplorer": false
+}
